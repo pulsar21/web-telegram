@@ -1,5 +1,5 @@
 function App() {
-  const human = true;
+  const human
   return <div className='App'>App</div>
 }
 
